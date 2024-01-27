@@ -12,7 +12,7 @@ export const aboutSection: AboutSectionType = {
         'ExpressJs',
         'Unit Testing',
         'TypeScript',
-        'CSS Animations',
+        'CSS',
     ],
     },
     img: '/vatsal-singh.jpg',
